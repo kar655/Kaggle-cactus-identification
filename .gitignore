@@ -1,0 +1,5 @@
+train/
+test/
+testing_data.npy
+training_data.npy
+models/

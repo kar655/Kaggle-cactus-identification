@@ -1,0 +1,16 @@
+Time: 1582201409.7677174
+Whole dataset
+Img size: 32
+Cactuses: 13136
+Notcactuses: 4364
+Total: 17500
+
+Training dataset
+Cactuses: 12136
+Training data samples: 15500
+Percentage: 0.7829677419354839
+Testing dataset
+Cactuses: 1000
+Test data samples: 2000
+Percentage: 0.5
+
